@@ -23,4 +23,5 @@ def print_module_name():
 if __name__ == "__main__":
     import sys
     print(is_prime(int(sys.argv[1])))
+    print(sys.argv[0])
     #s=input()
