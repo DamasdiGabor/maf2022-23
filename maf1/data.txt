@@ -1,0 +1,1 @@
+{"s\u00e1rk\u00e1nyok": [{"nev": "S\u00fcs\u00fc", "t\u00e1mad\u00e1s": "\u00f6lel\u00e9s", "lakhely": "Magyarorsz\u00e1g"}, {"nev": "Smaug", "t\u00e1mad\u00e1s": "t\u0171zok\u00e1d\u00e1s", "lakhely": "K\u00f6z\u00e9pf\u00f6lde"}, {"nev": "Rhaegal", "t\u00e1mad\u00e1s": "t\u0171zok\u00e1d\u00e1s", "lakhely": "Westeros"}]}
