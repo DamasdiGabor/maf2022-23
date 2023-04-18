@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/User/Desktop/maf2022-23/maf2/media/videos/maf2/720p30/partial_movie_files/MovingFrameBox/1342159004_1655044199_1248537328.mp4'
+file 'file:C:/Users/User/Desktop/maf2022-23/maf2/media/videos/maf2/720p30/partial_movie_files/MovingFrameBox/2708194817_396755732_3735409740.mp4'
+file 'file:C:/Users/User/Desktop/maf2022-23/maf2/media/videos/maf2/720p30/partial_movie_files/MovingFrameBox/2708194817_1615497636_137106684.mp4'
+file 'file:C:/Users/User/Desktop/maf2022-23/maf2/media/videos/maf2/720p30/partial_movie_files/MovingFrameBox/2708194817_1486818853_1891674403.mp4'
+file 'file:C:/Users/User/Desktop/maf2022-23/maf2/media/videos/maf2/720p30/partial_movie_files/MovingFrameBox/2708194817_1615497636_2402765755.mp4'
